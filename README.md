@@ -1,6 +1,6 @@
 # Basic CRUD user management system
 
-## [Live Demo](http://188.166.161.104/)
+Made a while ago to learn Golang and Typescript. It's a simple CRUD app that manages users. It has a backend and a frontend. The backend is a REST API built with Golang and Gin. The frontend is a React app, made with Typescript.
 
 ## Features
 - Master view to list all users
